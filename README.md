@@ -99,5 +99,6 @@ plt.show()
 ![275121128-c319964c-cdea-4739-af3b-f6fee56f3039](https://github.com/Aravindsamy04/ODD2023-Datascience-Ex06/assets/113497037/85e70ccb-1800-45d8-bb2c-bc8fd214aee2)
 
 
-
+### RESULT:
+Thus feature transformation is done for the given dataset.
 
