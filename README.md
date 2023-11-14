@@ -10,6 +10,10 @@ To read the given data and perform Feature Transformation process and save the d
 
 ### CODE AND OUTPUT:
 ```
+DEVELOPED BY:HARINI V
+REGISTER NO: 212222230044
+```
+```
 import pandas as pd
 from scipy import stats
 import numpy as np
